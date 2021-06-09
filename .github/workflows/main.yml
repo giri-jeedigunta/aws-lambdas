@@ -30,4 +30,4 @@ jobs:
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_region: ${{ secrets.AWS_REGION }}
           function_name: giri_test
-          source: giri_test_bundle.zip
+          zip_file: giri_test_bundle.zip
