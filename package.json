@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/giri-jeedigunta/aws-lambdas/issues"
   },
-  "homepage": "https://github.com/giri-jeedigunta/aws-lambdas#readme"
+  "homepage": "https://github.com/giri-jeedigunta/aws-lambdas#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
